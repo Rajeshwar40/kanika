@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-03-20T17:22:46.961Z",
+  "exportedAt": "2026-03-20T17:23:58.935Z",
   "tests": [
     {
       "id": "mmyn3qnh4paz",
@@ -48,6 +48,16 @@
     }
   ],
   "bills": [
+    {
+      "id": "mmz64s4a0msc",
+      "date": "2026-03-20",
+      "hospital": "Medicines",
+      "description": "medicine",
+      "amount": 1039,
+      "status": "Paid",
+      "notes": "",
+      "createdAt": 1774027438426
+    },
     {
       "id": "mmyn5i603g8e",
       "date": "2026-03-20",
